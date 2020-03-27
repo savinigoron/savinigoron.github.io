@@ -1,2 +1,2 @@
-# Ihor Savgin
+# Ihor Savin
 My homeworks
